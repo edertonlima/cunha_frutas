@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<produto><![CDATA[BACALHAU PORTO GADUS MORHUA 06/08 (NILS SPERRE)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.51.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 50 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 48,40]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 44,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 46,20]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU PORTO GADUS MORHUA 06/08 (MATHIAS)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.51.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 50 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 48,95]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 44,50]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 46,73]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU PORTO GADUS MORHUA 08/10 (MATHIAS)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.51.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 50 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 47,08]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 42,80]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 44,94]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU PORTO GADUS MORHUA 11/15 (MATHIAS)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.51.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 50 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU PORTO GADUS MACRO 08/10 (MATHIAS)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.51.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 50 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU COD GADUS MORHUA 07/09   (SCANMAR)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.51.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 25 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU COD GADUS MORHUA 10/12   (SCANMAR)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.51.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 25 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU SAITHE  07/09  (NILS SPERRE)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.59.10]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 25 KG]]></embalagem>
+		<unidade><![CDATA[KG]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU SAITHE 10/12  (NILS SPERRE)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.59.10]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 25 KG]]></embalagem>
+		<unidade><![CDATA[KG]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 24,20]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 22,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 23,10]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU SAITHE 13/15  (NILS SPERRE)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.59.10]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 25 KG]]></embalagem>
+		<unidade><![CDATA[KG]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU ZARBO 16/20  (MATHIAS)]]></produto>
+		<categoria><![CDATA[BACALHAU ** SECO/SALGADO]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.59.10]]></classificacao_fiscal>
+		<undefined3><![CDATA[NOR]]></undefined3>
+		<embalagem><![CDATA[CX 25 KG]]></embalagem>
+		<unidade><![CDATA[KG]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU DESFIADO pacote 5KG  (pollock) ]]></produto>
+		<categoria><![CDATA[BACALHAU** DESFIADO SECO/SALGADO ]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.59.99]]></classificacao_fiscal>
+		<undefined3><![CDATA[CH]]></undefined3>
+		<embalagem><![CDATA[CX 2x5KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 19,80]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 18,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 18,90]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU DESFIADO pacote 1KG (pollock) ]]></produto>
+		<categoria><![CDATA[BACALHAU** DESFIADO SECO/SALGADO ]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.59.99]]></classificacao_fiscal>
+		<undefined3><![CDATA[CH]]></undefined3>
+		<embalagem><![CDATA[CX 10x1KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU DESFIADO pacote 1KG (COD-MACRO) JESSY]]></produto>
+		<categoria><![CDATA[BACALHAU** DESFIADO SECO/SALGADO ]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.51.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[CH]]></undefined3>
+		<embalagem><![CDATA[CX 10x1KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BACALHAU DESFIADO pacote 5KG (COD-MACRO)  JESSY]]></produto>
+		<categoria><![CDATA[BACALHAU** DESFIADO SECO/SALGADO ]]></categoria>
+		<classificacao_fiscal><![CDATA[0305.51.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[CH]]></undefined3>
+		<embalagem><![CDATA[CX 2x5KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[LOMBO G. MORHUA 300/500 INDIVIDUAL FILMADO]]></produto>
+		<categoria><![CDATA[LINHA GOLD]]></categoria>
+		<classificacao_fiscal><![CDATA[GOLD ]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[BH001 CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 52,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 48,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 49,92]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[LOMBO G. MORHUA 500/700 INDIVIDUAL FILMADO]]></produto>
+		<categoria><![CDATA[LINHA GOLD]]></categoria>
+		<classificacao_fiscal><![CDATA[GOLD ]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[BH002 CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 53,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 49,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 50,96]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[LOMBO G. MORHUA 700/900 INDIVIDUAL FILMADO]]></produto>
+		<categoria><![CDATA[LINHA GOLD]]></categoria>
+		<classificacao_fiscal><![CDATA[GOLD ]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[BH003 CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[LOMBO G. MORHUA  14cxs X 800GRS (2 lombos por cx 800grs)]]></produto>
+		<categoria><![CDATA[LINHA GOLD]]></categoria>
+		<classificacao_fiscal><![CDATA[GOLD ]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[BC001 CX 11,2KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 58,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 54,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 56,16]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[LOMBO G. MORHUA 400/500 INDIVIDUAL FILMADO]]></produto>
+		<categoria><![CDATA[LINHA TRADICIONAL]]></categoria>
+		<classificacao_fiscal><![CDATA[TRAD]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[BH009 CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 50,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 46,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 47,84]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[LOMBO G. MORHUA 700/900 INDIVIDUAL FILMADO]]></produto>
+		<categoria><![CDATA[LINHA TRADICIONAL]]></categoria>
+		<classificacao_fiscal><![CDATA[TRAD]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[BH006 CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 53,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 49,40]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 51,38]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[LOMBO G. MORHUA  14cxs X 800GRS (2 lombos por cx 800grs)]]></produto>
+		<categoria><![CDATA[LINHA TRADICIONAL]]></categoria>
+		<classificacao_fiscal><![CDATA[TRAD]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[BC004 CX 11,2KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[DESFIADO DESSALGADO 12cxs X 500GRS]]></produto>
+		<categoria><![CDATA[LINHA TRADICIONAL]]></categoria>
+		<classificacao_fiscal><![CDATA[TRAD]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[FB003 CX 6 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 35,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 32,40]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 33,70]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BOLINHO DE BACALHAU PRE COZ. CONG. ( 32gr / unid. )]]></produto>
+		<categoria><![CDATA[PRODUTOS REYMAR/SOGUIMA tem ST]]></categoria>
+		<classificacao_fiscal><![CDATA[1604.20.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[PCR012 10X380G CX 3,8KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 28,25]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 26,16]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 24,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BOLINHO DE BACALHAU PRE COZ. CONG. ( 32gr / unid. )]]></produto>
+		<categoria><![CDATA[PRODUTOS REYMAR/SOGUIMA tem ST]]></categoria>
+		<classificacao_fiscal><![CDATA[1604.20.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[PCR013 4X1 kg CX 4KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 0,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[CAÇÃO HG****    entrega apartir de 1 tn]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0303.81.19]]></classificacao_fiscal>
+		<undefined3><![CDATA[]]></undefined3>
+		<embalagem><![CDATA[10KG / UP]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[CAÇÃO POSTA IQF (MARCABO) ]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0303.81.15]]></classificacao_fiscal>
+		<undefined3><![CDATA[POR]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 13,20]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 12,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 12,60]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[CAÇÃO POSTA IQF (SEVEN) ]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0303.81.15]]></classificacao_fiscal>
+		<undefined3><![CDATA[CH]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 13,20]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 12,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 12,60]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BASTONETES DE SURIMI (KANIKAMA) 40X250GRS (OCEAN KING)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[1604.]]></classificacao_fiscal>
+		<undefined3><![CDATA[CH]]></undefined3>
+		<embalagem><![CDATA[CX 10KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[BASTONETES DE SURIMI (KANIKAMA) 50X200GRS (OCEAN KING)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[1604.]]></classificacao_fiscal>
+		<undefined3><![CDATA[CH]]></undefined3>
+		<embalagem><![CDATA[CX 10KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE ABADEJO (CONGRO ROSA)3kg/up INTER. (CANTERBURY)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.89.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[NZ]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 50,60]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 46,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 48,30]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE ABADEJO (CONGRO ROSA) 2/3kg INTER. (CANTERBURY)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.89.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[NZ]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 48,40]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 44,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 46,20]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE ABADEJO (CONGRO ROSA) 1/2kg INTER. (CANTERBURY)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.89.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[NZ]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 45,10]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 41,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 43,05]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE ABADEJO INTER. 400/800grs     (PROYECTOR)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.89.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[ARG]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE ABADEJO INTER. 800/upgrs     (PROYECTOR)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.89.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[ARG]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 53,90]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 49,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 51,45]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE SAITHE  800grs/up     (WESTNORWAY)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[CHINA]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 28,60]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 26,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 27,30]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE SAITHE s/ pele s/ espinha 100grs/up IQF (WESTNORWAY)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[CHINA]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 29,70]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 27,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 28,35]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE SAITHE s/ pele s/ espinha 100grs/up 12x800grs  (WESTNORWAY)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.90]]></classificacao_fiscal>
+		<undefined3><![CDATA[CHINA]]></undefined3>
+		<embalagem><![CDATA[12x800grs CX 9,6 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 30,80]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 28,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 29,40]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE MERLUZA INTER. (FRIGOSUR)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.10]]></classificacao_fiscal>
+		<undefined3><![CDATA[ARG]]></undefined3>
+		<embalagem><![CDATA[CX 21KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE MERLUZA INTER.  (PROYECTOR)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.11]]></classificacao_fiscal>
+		<undefined3><![CDATA[ARG]]></undefined3>
+		<embalagem><![CDATA[CX 21KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 15,40]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 14,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 14,70]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE MERLUZAO INTER.  200gr/up (PROYECTOR)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.10]]></classificacao_fiscal>
+		<undefined3><![CDATA[ARG]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 16,39]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 14,90]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 15,65]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE MERLUZAO INTER.  200gr/up (FRIGOSUR)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.10]]></classificacao_fiscal>
+		<undefined3><![CDATA[ARG]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 16,39]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 14,90]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 15,65]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE MERLUZAO INTER.  240gr/up (POLOSUR)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.10]]></classificacao_fiscal>
+		<undefined3><![CDATA[ARG]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 16,39]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 14,90]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 15,65]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE MERLUZAO INTER.  300gr/up (FRIGOSUR)]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.10]]></classificacao_fiscal>
+		<undefined3><![CDATA[ARG]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 17,60]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[R$ 16,00]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 16,80]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE PANGA INTER  EXTRA (SOUTH VINA) free quimica 0% glaser]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.29.91]]></classificacao_fiscal>
+		<undefined3><![CDATA[VIET]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE SALMÃO CHUM IQF 600/900grs free quimica]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.81.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[CH]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+	<node>
+		<produto><![CDATA[FILE SALMÃO CHUM IQF 900/up grs free quimica]]></produto>
+		<categoria><![CDATA[PESCADOS CONGELADOS ]]></categoria>
+		<classificacao_fiscal><![CDATA[0304.81.00]]></classificacao_fiscal>
+		<undefined3><![CDATA[CH]]></undefined3>
+		<embalagem><![CDATA[CX 10 KG]]></embalagem>
+		<unidade><![CDATA[ KG ]]></unidade>
+		<preco_pessoa_fisica><![CDATA[R$ 0,00]]></preco_pessoa_fisica>
+		<preco_sp><![CDATA[]]></preco_sp>
+		<preco_outros_estados><![CDATA[R$ 0,00]]></preco_outros_estados>
+	</node>
+</data>

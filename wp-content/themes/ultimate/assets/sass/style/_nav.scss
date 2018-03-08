@@ -1,0 +1,430 @@
+.header__navigation {
+    width: calc(80% - ($wLogo));
+    margin-left: $wLogo;
+    margin-top: 0px;
+    height: 60px;
+    position: relative;
+
+	.navbar-collapse {
+		padding: 0;
+		display: block;
+		height: auto;
+		overflow: visible;
+		width: 100%;
+		border-top: 0;
+		box-shadow: none;
+
+		position: absolute;
+		top: 0;
+		height: 60px;
+		@include clear;
+	}
+
+	.redes {
+		float: right;
+		margin: 0;
+		line-height: 60px;
+
+		a {
+			padding: 5px;
+			margin: 0 2.5px;
+			position: relative;
+			top: 3px;
+			@include animacao;
+
+			i {
+				font-size: 1.5rem;
+			}
+
+			&:hover {
+				i {
+					color: $laranja;
+				}
+			}
+		}
+	}
+
+	&.active {
+		display: block;
+		position: fixed;
+		background: $laranja;
+		margin: 0;
+		width: 100%;
+		height: 100vh;
+		top: 0;
+		z-index: 9999;
+
+		#cargopress-navbar-collapse {
+			padding: 0 !important;
+			display: table;
+			height: 100vh;
+
+			#menu-main-menu {
+				vertical-align: middle;
+				display: table-cell;
+				height: auto;
+				width: 100%;
+
+				li {
+					display: block;
+					height: auto;
+					padding: 5px 30px;
+
+					> a {
+						font-size: 1.5rem;
+						line-height: 1.5rem;
+						padding: 2px 0;
+						display: inline-block;
+
+						i {
+							font-size: 1rem;
+							top: -4px;
+						}
+					}
+
+					&:hover {
+						> ul {
+							display: none;
+						}
+					}
+				}
+			}
+		}
+
+		.redes {
+			position: fixed;
+			top: 5px;
+			left: 0;
+			width: 100%;
+			text-align: center;
+
+			a {
+				i {
+					font-size: 2rem;
+				}
+			}
+		}
+	}
+}
+
+.main-navigation {
+	padding-left: 40px; 
+	height: 100%;
+	display: inline-block;
+
+	> li {
+		display: inline-block;
+		position: relative;
+		height: 100%;
+
+		> a {
+			color: #ffffff;
+			padding: 18px 20px;
+			display: block;
+			@include animacao;
+
+			i {
+				color: #fff;
+				font-size: .75rem;
+				top: -3px;
+				position: relative;
+				margin-left: 3px;
+			}
+
+			&:before {
+				position: absolute;
+				content: "";
+				width: 4px;
+				height: 4px;
+				right: -2px;
+				top: 26px;
+				border-radius: 50%;
+				background: rgba(#ffffff,0.3);
+			}
+
+			&:after {
+				position: relative;
+				content: "";
+				width: 0px;
+				height: 5px;
+				left: 0;
+				bottom: -17px;
+				background-color: $laranja;
+				display: block;
+				margin: 0 auto;
+				@include animacao;
+			}
+		}
+
+		&.active, &:hover {
+			a {
+				&:after {
+					width: 100%;
+					z-index: 0;
+				}
+			}
+		}
+
+		&:last-child {
+			a {
+				&:before {
+					display: none;
+				}
+			}
+		}
+
+		ul {
+			display: none;
+			position: absolute;
+			z-index: 999;
+			background: #fff;
+			width: 240px;
+			left: 10px;
+			border-bottom: 3px solid $laranja;
+			@include animacao;
+
+			li {
+				display: block;
+				border-bottom: 1px solid $cinza;
+				line-height: 45px;
+				padding: 0 20px;
+
+				a {
+					font-size: .9rem;
+					font-weight: $bold;
+
+					&:hover {
+						color: $laranja;
+					}
+				}
+
+				&:last-child {
+					border-bottom: none;
+				}
+			}
+		}
+
+		&:hover {
+			ul {
+				display: block;
+			}
+		}
+	}
+}
+
+
+.nav {
+	width: auto;
+	right: 40px;
+	bottom: 13px;
+	position: absolute;
+	z-index: 9999;
+	display: none;
+
+	ul {
+
+		li {
+			position: relative;
+			display: inline-block;
+			margin: 0;
+			padding: 0;
+			height: 45px;
+			background: url('../images/bg_menu_hover.png') no-repeat center 45px;
+			@include animacao();
+
+			a {
+				margin-left: -4px;
+				display: block;
+				font-size: .875rem;
+				color: #ffffff;
+				font-weight: $bold;
+				padding: 0px 7px;
+				text-decoration: none;
+				text-shadow: 1px 1px 1px #000000;
+			}
+
+			&.menu-minha-area {
+				display: none;
+			}
+
+			&:hover {
+
+				> a {
+					opacity: .5;
+				}
+
+				> ul {
+					display: block!important;
+					visibility: visible!important;
+				}
+			}
+
+			&:first-child {
+				a {
+					margin-left: 0;
+					border: none;
+				}
+			}
+
+
+			ul {
+				display: none;
+				left: 0;
+				top: 44px;
+				z-index: 99999;
+				background-color: #282829;
+				position: absolute;
+				width: 320px;
+				margin-left: -4px;
+				padding: 10px 20px 20px;
+
+				li {
+					display: block;
+					line-height: 30px;
+					height: auto;
+
+					a {
+						display: inline-block;
+						margin-left: 0px;
+						line-height: 30px;
+						color: #ffffff;
+						//border-bottom: 1px solid $laranja;
+					}
+
+					&:hover {
+						> a {
+							opacity: .5;
+						}
+					}
+				}
+
+				&.submenu-sub {
+					display: none;
+					margin-left: 60px;
+
+					a {
+						padding: 0 15px;
+					}
+				}
+			}
+		}
+	}
+}
+
+
+.header {
+	&.active {
+		.nav {
+			ul {
+				li {
+					&.menu-minha-area {
+						display: block;
+					}
+				}
+			}
+		}
+	}
+}
+
+/* menu mobile */
+.menu-mobile {
+	display: none;
+	float: right;
+	width: 35px;
+	height: 30px;
+	margin-top: 29px;
+	text-decoration: none;
+	position: relative;
+	z-index: 99999;
+	margin-right: 50px;
+
+	span {
+		display: block;
+
+		em {
+			font-style: normal;
+			color: #6a6c74;
+			font-size: 3rem;
+			line-height: 2rem;
+			display: block;
+			text-decoration: none;
+			margin-top: -2px;
+			@include animacao();
+
+			&:hover {
+				color: $laranja;
+			}
+		}
+	}
+
+	&.active {
+		text-align: center;
+		position: fixed;
+		right: 0;
+
+		span {
+			em {
+				color: #fff;
+				text-decoration: none;
+			}
+		}
+	}
+
+	&:not(.active){
+		span {
+			position: relative;
+
+			em {
+				display: none;
+			}
+
+			&:before, &:after {
+				content: '';
+				position: absolute;
+			}
+
+			&:before {
+				top: 11px;
+			}
+
+			&:after {
+				top: 22px;
+			}
+		}
+
+		span, span:before, span:after {
+			background-color: $azul-escuro;
+			height: 5px;
+			width: 40px;
+			@include animacao();
+		}
+
+		&:hover {
+
+			span, span:before, span:after {
+				background-color: $laranja;
+			}
+		}
+	}
+}
+
+@mixin menu-active {
+	background-position: center 31px;
+
+	&:hover {
+		opacity: 1;
+	}
+}
+
+body {
+
+	.nav ul li.active {
+		@include menu-active;
+	}
+
+	&.post-type-archive-produtos, &.single-produtos, &.tax-produtos_taxonomy {
+		.nav ul li.menu-produtos {
+			@include menu-active;
+		}
+	}
+}

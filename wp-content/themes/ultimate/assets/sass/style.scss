@@ -1,0 +1,23 @@
+@import 'bootstrap.min.css';
+
+@import 'fancybox.css';
+
+@import 'style/_mixin';
+@import 'style/_reset';
+@import 'style/_variaveis';
+@import 'style/_fonts';
+@import 'style/_estrutura';
+@import 'style/_elementos';
+@import 'style/_form';
+@import 'style/_nav';
+@import 'style/_tab';
+@import 'style/_slide';
+@import 'style/_header';
+@import 'style/_footer';
+@import 'style/_modal';
+
+/* PAGES */
+@import 'style/page/_home'; 
+@import 'style/page/_produtos'; 
+@import 'style/page/_clientes'; 
+@import 'style/_mobile'; 

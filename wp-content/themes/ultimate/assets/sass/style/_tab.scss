@@ -1,0 +1,42 @@
+.nav-tab {
+	width: 100%;
+	display: block;
+
+	ul {
+
+		li {
+			position: relative;
+			display: inline-block;
+			margin: 0;
+			padding: 0;
+
+			a {
+				margin-left: -4px;
+				display: block;
+				text-decoration: none;
+				@include animacao();
+			}
+
+			&:first-child {
+				a {
+					margin-left: 0;
+					border: none;
+				}
+			}
+		}
+	}
+}
+
+.content-tab {
+	display: block;
+	@include clear;
+
+	.tab {
+		display: none;
+		@include clear;
+
+		&.active {
+			display: block;
+		}
+	}
+}

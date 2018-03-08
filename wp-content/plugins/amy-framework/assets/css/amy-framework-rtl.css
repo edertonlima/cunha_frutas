@@ -1,0 +1,251 @@
+.amy-framework {
+	margin-left: 20px;
+	margin-right: 0;
+}
+
+.amy-framework .amy-header h1 {
+	float: right;
+}
+
+.amy-framework .amy-header fieldset {
+	float: left;
+}
+
+.amy-framework .amy-nav {
+	float: right;
+}
+
+.amy-framework .amy-nav ul {
+	clear: right;
+}
+
+.amy-framework .amy-nav ul li .amy-section-active:after {
+	right: auto;
+	left: 0;
+	border-left-color: #fff;
+	border-right-color: transparent;
+}
+
+.amy-framework .amy-nav ul li .amy-arrow:after {
+	content: "\f053";
+	right: auto;
+	left: 10px;
+}
+
+.amy-framework .amy-nav ul li.amy-tab-active .amy-arrow:after {
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+}
+
+.amy-framework .amy-nav ul ul li a {
+	padding-right: 25px;
+	padding-left: 15px;
+}
+
+.amy-framework .amy-nav ul ul:before {
+	left: auto;
+	right: 15px;
+}
+
+.amy-framework .amy-nav .amy-icon {
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+.amy-framework .amy-nav-background {
+	left: auto;
+	right: 0;
+}
+
+.amy-framework .amy-content {
+	margin-left: 0;
+	margin-right: 225px;
+}
+
+.amy-framework .amy-content .amy-sections {
+	float: right;
+}
+
+.amy-framework .amy-show-all .amy-content {
+	margin-right: 0;
+	overflow: hidden;
+}
+
+.amy-framework .amy-expand-all {
+	right: auto;
+	left: 40px;
+}
+
+.amy-framework .amy-footer {
+	text-align: left;
+}
+
+.amy-metabox-framework {
+	margin: -6px -12px -12px -12px;
+}
+
+.amy-metabox-framework .amy-content .amy-section-title {
+	padding: 20px;
+}
+
+.amy-element .amy-title {
+	float: right;
+}
+
+.amy-element .amy-fieldset {
+	margin-left: 0;
+	margin-right: 30%;
+}
+
+.amy-pseudo-field {
+	padding: 0 0 0 5px !important;
+}
+
+.amy-field-number em {
+	margin-left: 0;
+	margin-right: 5px;
+}
+
+.amy-field-typography select,
+.amy-field-typography .chosen-container {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.amy-field-checkbox .horizontal li,
+.amy-field-radio .horizontal li {
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+.amy-field-switcher label {
+	float: right;
+}
+
+.amy-field-switcher .amy-text-desc {
+	float: right;
+	margin-left: 0;
+	margin-right: 5px;
+}
+
+.amy-field-color_picker .amy-alpha-slider {
+	margin-left: 0;
+	margin-right: 2px;
+}
+
+.amy-field-color_picker .amy-alpha-slider .ui-slider-handle {
+	margin: 0 -11px;
+}
+
+.amy-field-color_picker .amy-alpha-slider-offset {
+	background-position: center right;
+}
+
+.amy-field-color_picker .amy-alpha-text {
+	right: auto;
+	left: 10px;
+}
+
+.amy-field-group .ui-accordion-icons {
+	padding-left: 0;
+	padding-right: 30px;
+}
+
+.amy-field-group .ui-accordion-header-icon {
+	left: auto;
+	right: .5em;
+}
+
+.amy-field-group .dashicons-arrow-right:before {
+	content: "\f141";
+}
+
+.amy-help {
+	right: auto;
+	left: 5px;
+}
+
+.amy-field-icon .button {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.amy-field-icon .amy-icon-preview i {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.amy-field-gallery ul li {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.amy-field-gallery .button {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.amy-field-sorter .amy-modules {
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.amy-taxonomy-add-fields .amy-fieldset {
+	margin-right: 0;
+}
+
+.amy-taxonomy-add-fields .amy-help {
+	left: -5px;
+	right: auto;
+}
+
+.amy-taxonomy-edit-fields .amy-fieldset {
+	margin-left: 0;
+	margin-right: 255px;
+}
+
+.amy-taxonomy-edit-fields .amy-help {
+	right: auto;
+	left: -5px;
+}
+
+#amy-save-ajax {
+	right: auto;
+	left: 5px;
+}
+
+.amy-dialog .amy-element {
+	padding-right: 15px;
+	padding-left: 30px;
+}
+
+.amy-dialog .amy-shortcode-clone .amy-remove-clone {
+	right: auto;
+	left: 5px;
+}
+
+#customize-controls .amy-element .amy-fieldset,
+.widget-content .amy-element .amy-fieldset,
+#side-sortables .amy-element .amy-fieldset {
+	margin-right: 0;
+}
+
+@media only screen and (max-width: 1200px) {
+	.amy-metabox-framework .amy-element .amy-fieldset {
+		margin-left: 0;
+	}
+}
+
+@media only screen and (max-width: 782px) {
+	.amy-framework .amy-fieldset,
+	.amy-framework .amy-content {
+		margin-right: 0;
+	}
+}
+
+.ui-dialog {
+	right: auto;
+}

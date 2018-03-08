@@ -1,0 +1,185 @@
+.contato {
+	h3 {
+		font-weight: $light;
+		color: $azul-escuro;
+		font-size: 2.1rem;
+	}
+
+	.text-contato {
+		font-weight: $regular;
+		color: $azul-escuro;
+		font-size: 1.6rem;
+		margin-top: 50px;
+		line-height: 1.85rem;
+
+		span {
+			font-size: 2.225rem;
+			line-height: 2.5rem;
+			color: #000000;
+			display: block;
+		}
+	}
+}
+
+.footer {
+	background-color: $azul-escuro;
+	width: 100%;
+	float: left;
+	padding: 50px 0 0;
+
+	p {
+		color: #ffffff;
+	}
+
+	h3 {
+		font-size: 1.225rem;
+		margin-bottom: 15px;
+		color: #fff;
+		margin-top: 30px;
+	}
+
+	.link-footer {
+		padding: 2px 0;
+		color: #ffffff;
+		float: left;
+		@include clear;
+		@include animacao;
+
+		i {
+			color: #ffffff;
+			font-size: .5rem;
+			position: relative;
+			top: -2px;
+			margin-right: 10px;
+			@include animacao;
+		}
+
+		&:hover {
+			color: $laranja;
+
+			i {
+				color: $laranja;
+			}
+		}
+	}
+
+	.menu-footer {
+		li {
+			margin-bottom: 5px;
+			a {
+				color: #ffffff;
+
+				&:hover {
+					opacity: .8;
+				}
+			}
+		}
+
+		&.menu-institucional {
+			margin-top: 88px;
+		}
+	}
+
+	.copy {
+		width: 100%;
+		@include box-sizing;
+		background-color: $laranja;
+		padding: 10px 0;
+		margin-top: 50px;
+
+		p {
+			float: left;
+			font-size: .675rem;
+			color: #ffffff;
+			margin: 8px 0 0;
+
+			i {
+				font-size: .675rem;
+				color: $cinza;
+			}
+		}
+
+		.ultimate {
+			a {
+				font-size: .675rem;
+				color: $cinza;
+				opacity: .8;
+				float: right;
+				@include animacao;
+
+				&:hover {
+					color: #ffffff;
+				}
+			}
+		}
+	}
+
+	.contato-footer {
+		span {
+			&.tel {
+				i {
+					color: #ffffff;
+				}
+			}
+		}
+	}
+
+	img {
+		width: 200px;
+	}
+}
+
+	.info-contato {
+		height: auto;
+		background-color: transparent;
+		text-align: left;
+
+		.item-info-header {
+			margin: 0 0 20px;
+			padding: 0;
+			border: 0;
+			float: left;
+			width: 50%;
+
+			&.escreva {
+				width: 100%;
+			}
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+
+			.title, .subtitle {
+				color: #ffffff;
+			}
+		}
+
+		&.form-contato {
+			margin-top: 115px;
+			.title, .subtitle {
+				color: $cor-txt;
+			}
+		}
+	}
+
+
+	.redes {
+		float: right;
+		width: auto;
+		margin-top: 7px;
+
+		a {
+			margin: 0 5px;
+			i {
+				color: #ffffff;
+				font-size: 1.5rem;
+				@include animacao;
+			}
+
+			&:hover {
+				i {
+					color: $laranja;
+				}
+			}
+		}
+	}

@@ -1,0 +1,19 @@
+.h1, h3 {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+.h1 img {
+	display: : block;
+	margin: 0 auto;
+}
+
+h3 {
+	clear: both;
+	font-size: 22px;
+}
+
+.table td.qtd, .table td .input-checkbox {
+    display: none;
+}
