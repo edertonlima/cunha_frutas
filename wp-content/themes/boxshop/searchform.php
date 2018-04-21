@@ -3,7 +3,7 @@ $rand_id = '-'.rand(0, 1000);
 $placeholder_text = esc_html__('Search', 'boxshop');
 
 if( class_exists('WooCommerce') ){
-	$placeholder_text = esc_html__('Search for products', 'boxshop');
+	$placeholder_text = esc_html__('O que você está procurando?', 'boxshop');
 }
 
 if( is_404() ){

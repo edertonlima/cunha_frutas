@@ -555,11 +555,20 @@ if(!function_exists('boxshop_breadcrumbs')){
 					if( strcmp('Portfolio Item', $post_type->labels->singular_name) == 0 ){
 						$post_type_name = $ar_title['portfolio'];
 					}
+
+				if($post_type_name == 'Portfolios'){
+					$post_type_name = 'Serviços';
+					$output .= '<a href="' . $homeLink . 'servicos' . '/">' . $post_type_name . '</a> ' . $delimiter . ' ';
+				}else{
+
 					if( $rewriteUrl ){
 						$output .= '<a href="' . $homeLink . $slug['slug'] . '/">' . $post_type_name . '</a> ' . $delimiter . ' ';
 					}else{
 						$output .= '<a href="' . $homeLink . '?post_type=' . get_post_type() . '">' . $post_type_name . '</a> ' . $delimiter . ' ';
 					}
+
+				}
+
 					
 					$output .= $before . get_the_title() . $after;
 			    } else {
@@ -571,6 +580,7 @@ if(!function_exists('boxshop_breadcrumbs')){
 				$post_type = get_post_type_object(get_post_type());
 				$slug = $post_type->rewrite;
 				$post_type_name = $post_type->labels->singular_name;
+
 			    if( strcmp('Portfolio Item', $post_type->labels->singular_name) == 0 ){
 					$post_type_name = $ar_title['portfolio'];
 			    }

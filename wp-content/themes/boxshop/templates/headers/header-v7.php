@@ -78,6 +78,14 @@ else{
 							<?php if( $boxshop_theme_options['ts_header_language'] ): ?>
 							<div class="header-language"><?php boxshop_wpml_language_selector(); ?></div>
 							<?php endif; ?>
+
+							<div class="social-icons show-tooltip style-horizontal">
+								<ul class="list-icons">
+									<li class="facebook"><a href="#" target="_blank" title=""><i class="fa fa-facebook"></i></a></li>				
+									<li class="twitter"><a href="#" target="_blank" title=""><i class="fa fa-twitter"></i></a></li>
+									<li class="instagram"><a href="#" target="_blank" title=""><i class="fa fa-instagram"></i></a></li>
+								</ul>
+							</div>
 							
 						</div>
 					</div>

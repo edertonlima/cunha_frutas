@@ -19349,3 +19349,31 @@ div.wpcf7-spam-blocked a,
 .mobile-menu-wrapper li > .ts-menu-drop-icon{
 	color:#f5f5f5;
 }
+
+
+.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+	max-width: 100%;
+}
+
+.group-meta-header .social-icons .list-icons {
+	margin: 0;
+}
+
+.group-meta-header .social-icons .list-icons li {
+	list-style: none;
+	display: inline-block;
+	padding: 0 3px;
+	line-height: normal;
+}
+
+.group-meta-header .social-icons .list-icons li a i {
+	font-size: 25px;
+}
+
+.group-meta-header .social-icons .list-icons li a:hover i {
+	color: #7dc641;
+}
+
+h3 {
+	font-weight: bold;
+}
